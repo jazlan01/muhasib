@@ -4,7 +4,7 @@ Welcome to split track, an expense tracking app for you and your friends. I got 
 
 This project is currently under development. Please contact me if you want to contribute.
 
-This project will use [Shadcn UI](https://ui.shadcn.com) and [NextJS 15](https://nextjs.org).
+This project will use [Shadcn UI](https://ui.shadcn.com) and [Tanstack Start](https://tanstack.com/start/latest).
 
 
 ## Planned Features
