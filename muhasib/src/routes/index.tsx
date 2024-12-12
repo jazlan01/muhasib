@@ -14,10 +14,10 @@ function HomeComponent() {
         expenses and income.
       </p>
       <div className="mt-4 flex lg:flex-col gap-4">
-        <Button className='p-4 text-lg font-semibold'>
+        <Button className='p-4 text-lg font-semibold rounded-lg'>
           <a href="/login">Get Started</a>
         </Button>
-        <Button className='p-4 text-lg font-semibold'>
+        <Button className='p-4 text-lg font-semibold rounded-lg'>
           <a href="/register">Register</a>
         </Button>
       </div>
