@@ -1,6 +1,6 @@
-<div style="width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; align: center;">
+<div style="width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 12px;" align="center">
     <img src="logo.png" alt="Muhasib Logo" width="450"/>
-    <h2>Your personal accounting tool</h2>
+    <p style="font-size: 24px;">Your personal accounting tool</p>
 </div>
 
 
