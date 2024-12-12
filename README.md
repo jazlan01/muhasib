@@ -1,4 +1,8 @@
-# Muhasib
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <img src="logo.png" alt="Muhasib Logo" width="450"/>
+    <h2>Your personal accounting tool</h2>
+</div>
+
 
 Welcome to Muhasib, an expense tracking app for you and your friends. I got tired of looking for solutions that are expensive yearly and require instances of databases to run. Hopefully I can develop this as a simple deployment on Vercel so it can be used freely by anyone who wishes to deploy, or just release this as a subscription product at some point.
 
